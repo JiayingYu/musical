@@ -1,0 +1,94 @@
+/*body  {background-color: #75A3FF }*/
+
+#container {
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+
+#navbarDiv{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.about-container { margin-top: 20px; }
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+    height: 550px;
+    width: 100%;
+    margin: auto;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+    z-index: 10;
+}
+
+.carousel-inner {
+    margin: auto;
+}
+/* Declare heights because of positioning of img element */
+.carousel .item {
+    margin: auto;
+    height: 550px;
+    background-color: #777;
+}
+
+.carousel-inner > .item > img {
+    position: relative; /* set position to relative to center the image */
+    margin: auto;
+    height: 675px;
+}
+
+/* ------------------------------------------*/
+
+.img-circle { height: 140px; width: 140px; }
+
+.ul-a { list-style-type: square; }
+
+.content-p { font-size: 18px;}
+
+.ol-a>li { margin-bottom: 20px;}
+
+
+.myHeader {
+    height: 300px;
+    background: linear-gradient(top, #2F2F70, #5E5BB4);;
+    background: -webkit-linear-gradient(top, #2F2F70, #5E5BB4);
+    background: -moz-linear-gradient(top, #2F2F70, #5E5BB4);
+    background: -o-linear-gradient(top, #2F2F70, #5E5BB4);
+    color: #ffffff;
+}
+
+.profile {
+    width: 200px;
+    height: 200px;
+}
+
+.role { text-align: right}
+
+#btn-cast { background-color: #5E5BB4; border-color: #5E5BB4;}
+
+.list-group .custom-active, .list-group .custom-active:hover{
+    background-color: #5E5BB4; border-color: #5E5BB4; color: #ffffff; }
+
+#img-syn { width: 100%; margin-top: 20px;}
+
+#img-majestic { margin-top: 20px; margin-bottom: 20px;}
+
+#lion-header {
+    height: 300px;
+    background: linear-gradient(top, #FF6600, #FF944D);
+    background: -webkit-linear-gradient(top, #FF6600, #FF944D);
+    background: -moz-linear-gradient(top, #FF6600, #FF944D);
+    background: -o-linear-gradient(top, #FF6600, #FF944D);
+    color: #ffffff; }
+
+#lion-active, #lion-active:hover {
+    background: #FF6600;
+    border-color: #FF6600;
+    color: white; }
