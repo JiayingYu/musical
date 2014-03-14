@@ -88,7 +88,23 @@
     background: -o-linear-gradient(top, #FF6600, #FF944D);
     color: #ffffff; }
 
+#mormon-header {
+    height: 300px;
+    background: linear-gradient(top, #FF6600, #FF944D);
+    background: -webkit-linear-gradient(top, #299EBC, #33C6EB);
+    background: -moz-linear-gradient(top, #FF6600, #FF944D);
+    background: -o-linear-gradient(top, #FF6600, #FF944D);
+    color: #ffffff;
+}
+
 #lion-active, #lion-active:hover {
     background: #FF6600;
     border-color: #FF6600;
-    color: white; }
+    color: white;
+}
+
+#mormon-active, #mormon-active:hover {
+    background: #33C6EB;
+    border-color: #33C6EB;
+    color: white;
+}

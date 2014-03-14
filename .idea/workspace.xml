@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mormon.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mormon.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mormon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="6" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.4548105" vertical-offset="521" max-vertical-offset="1717">
+            <state line="55" column="73" selection-start="2347" selection-end="2347" vertical-scroll-proportion="-13.730769" vertical-offset="578" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,25 @@
       <file leaf-file-name="phantom.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phantom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="6" selection-start="1783" selection-end="2092" vertical-scroll-proportion="-10.692307" vertical-offset="555" max-vertical-offset="1717">
+            <state line="49" column="6" selection-start="1783" selection-end="2092" vertical-scroll-proportion="2.3846154" vertical-offset="895" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="lion.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="75" selection-start="2332" selection-end="2332" vertical-scroll-proportion="-5.4615383" vertical-offset="793" max-vertical-offset="1683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="4" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0" vertical-offset="890" max-vertical-offset="1683">
+            <state line="103" column="0" selection-start="2389" selection-end="2389" vertical-scroll-proportion="0.74206895" vertical-offset="1213" max-vertical-offset="1955">
               <folding />
             </state>
           </provider>
@@ -67,8 +76,8 @@
         <option value="$PROJECT_DIR$/phantom_theatre.html" />
         <option value="$PROJECT_DIR$/phantom.html" />
         <option value="$PROJECT_DIR$/lion.html" />
-        <option value="$PROJECT_DIR$/custom.css" />
         <option value="$PROJECT_DIR$/mormon.html" />
+        <option value="$PROJECT_DIR$/custom.css" />
       </list>
     </option>
   </component>
@@ -372,13 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="75" selection-start="2332" selection-end="2332" vertical-scroll-proportion="0.43002915" vertical-offset="640" max-vertical-offset="1683">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="10" selection-start="5311" selection-end="5486" vertical-scroll-proportion="2.4285715" vertical-offset="17" max-vertical-offset="1887">
@@ -393,23 +395,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom.css">
+    <entry file="file://$PROJECT_DIR$/phantom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="4" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0" vertical-offset="890" max-vertical-offset="1683">
+        <state line="49" column="6" selection-start="1783" selection-end="2092" vertical-scroll-proportion="2.3846154" vertical-offset="895" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phantom.html">
+    <entry file="file://$PROJECT_DIR$/lion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="6" selection-start="1783" selection-end="2092" vertical-scroll-proportion="-10.692307" vertical-offset="555" max-vertical-offset="1717">
+        <state line="55" column="75" selection-start="2332" selection-end="2332" vertical-scroll-proportion="-5.4615383" vertical-offset="793" max-vertical-offset="1683">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mormon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="6" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.4548105" vertical-offset="521" max-vertical-offset="1717">
+        <state line="55" column="73" selection-start="2347" selection-end="2347" vertical-scroll-proportion="-13.730769" vertical-offset="578" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="0" selection-start="2389" selection-end="2389" vertical-scroll-proportion="0.74206895" vertical-offset="1213" max-vertical-offset="1955">
           <folding />
         </state>
       </provider>
