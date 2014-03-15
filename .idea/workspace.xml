@@ -23,19 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mormon.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mormon.html">
+      <file leaf-file-name="broadway_shows.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broadway_shows.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="73" selection-start="2347" selection-end="2347" vertical-scroll-proportion="-13.730769" vertical-offset="578" max-vertical-offset="1683">
+            <state line="98" column="0" selection-start="4273" selection-end="4273" vertical-scroll-proportion="-18.961538" vertical-offset="1173" max-vertical-offset="2618">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phantom.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phantom.html">
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="6" selection-start="1783" selection-end="2092" vertical-scroll-proportion="2.3846154" vertical-offset="895" max-vertical-offset="1717">
+            <state line="27" column="48" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.5043732" vertical-offset="113" max-vertical-offset="1887">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="219" column="13" selection-start="4979" selection-end="4979" vertical-scroll-proportion="-143.1923" vertical-offset="0" max-vertical-offset="3910">
               <folding />
             </state>
           </provider>
@@ -44,16 +53,25 @@
       <file leaf-file-name="lion.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="75" selection-start="2332" selection-end="2332" vertical-scroll-proportion="-5.4615383" vertical-offset="793" max-vertical-offset="1683">
+            <state line="11" column="46" selection-start="409" selection-end="409" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/custom.css">
+      <file leaf-file-name="mormon.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mormon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="0" selection-start="2389" selection-end="2389" vertical-scroll-proportion="0.74206895" vertical-offset="1213" max-vertical-offset="1955">
+            <state line="11" column="46" selection-start="413" selection-end="413" vertical-scroll-proportion="-4.576923" vertical-offset="68" max-vertical-offset="1683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lion_gallary.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lion_gallary.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="46" selection-start="416" selection-end="416" vertical-scroll-proportion="-5.230769" vertical-offset="51" max-vertical-offset="1462">
               <folding />
             </state>
           </provider>
@@ -70,14 +88,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/broadway_shows.html" />
+        <option value="$PROJECT_DIR$/author.html" />
+        <option value="$PROJECT_DIR$/custom.css" />
+        <option value="$PROJECT_DIR$/phantom.html" />
         <option value="$PROJECT_DIR$/phantom_cast.html" />
         <option value="$PROJECT_DIR$/phantom_theatre.html" />
-        <option value="$PROJECT_DIR$/phantom.html" />
+        <option value="$PROJECT_DIR$/lion_gallary.html" />
         <option value="$PROJECT_DIR$/lion.html" />
         <option value="$PROJECT_DIR$/mormon.html" />
-        <option value="$PROJECT_DIR$/custom.css" />
+        <option value="$PROJECT_DIR$/broadway_shows.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -199,7 +219,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25078124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -227,7 +247,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25078124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -362,63 +382,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/author.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="451" selection-end="451" vertical-scroll-proportion="0.3404864" vertical-offset="0" max-vertical-offset="1122" />
+        <state line="12" column="45" selection-start="401" selection-end="401" vertical-scroll-proportion="-5.0" vertical-offset="74" max-vertical-offset="1173">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phantom_cast.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="40" selection-start="2420" selection-end="2420" vertical-scroll-proportion="-32.03846" vertical-offset="136" max-vertical-offset="1649">
+        <state line="11" column="46" selection-start="407" selection-end="407" vertical-scroll-proportion="-0.65384614" vertical-offset="170" max-vertical-offset="1649">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phantom_theatre.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="117" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.36480686" vertical-offset="544" max-vertical-offset="1513">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="10" selection-start="5311" selection-end="5486" vertical-scroll-proportion="2.4285715" vertical-offset="17" max-vertical-offset="1887">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/broadway_shows.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="13" selection-start="7106" selection-end="7106" vertical-scroll-proportion="1.2230321" vertical-offset="1694" max-vertical-offset="2669">
+        <state line="11" column="46" selection-start="410" selection-end="410" vertical-scroll-proportion="0.02478134" vertical-offset="170" max-vertical-offset="1513">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phantom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="6" selection-start="1783" selection-end="2092" vertical-scroll-proportion="2.3846154" vertical-offset="895" max-vertical-offset="1717">
+        <state line="11" column="46" selection-start="419" selection-end="419" vertical-scroll-proportion="0.24781342" vertical-offset="17" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lion_gallary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="46" selection-start="416" selection-end="416" vertical-scroll-proportion="-5.230769" vertical-offset="51" max-vertical-offset="1462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="75" selection-start="2332" selection-end="2332" vertical-scroll-proportion="-5.4615383" vertical-offset="793" max-vertical-offset="1683">
+        <state line="11" column="46" selection-start="409" selection-end="409" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="1683">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mormon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="73" selection-start="2347" selection-end="2347" vertical-scroll-proportion="-13.730769" vertical-offset="578" max-vertical-offset="1683">
+        <state line="11" column="46" selection-start="413" selection-end="413" vertical-scroll-proportion="-4.576923" vertical-offset="68" max-vertical-offset="1683">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="0" selection-start="2389" selection-end="2389" vertical-scroll-proportion="0.74206895" vertical-offset="1213" max-vertical-offset="1955">
+        <state line="219" column="13" selection-start="4979" selection-end="4979" vertical-scroll-proportion="-143.1923" vertical-offset="0" max-vertical-offset="3910">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broadway_shows.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="0" selection-start="4273" selection-end="4273" vertical-scroll-proportion="-18.961538" vertical-offset="1173" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="48" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.5043732" vertical-offset="113" max-vertical-offset="1887">
           <folding />
         </state>
       </provider>
