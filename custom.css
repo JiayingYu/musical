@@ -30,7 +30,7 @@
 /* Carousel base class */
 .carousel {
     height: 550px;
-    width: 100%;
+    width: 1280px;
     margin: auto;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -45,13 +45,14 @@
 .carousel .item {
     margin: auto;
     height: 550px;
+    width: 1280px;
     background-color: #777;
 }
 
 .carousel-inner > .item > img {
     position: relative; /* set position to relative to center the image */
     margin: auto;
-    height: 675px;
+    /*height: 675px;*/
 }
 
 /* ------------------------------------------*/
